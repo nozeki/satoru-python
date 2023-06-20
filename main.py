@@ -10,7 +10,7 @@ import os
 
 import logging
 
-# ログの設定
+# グの設定
 logging.basicConfig(filename='logfile.log', level=logging.DEBUG)
 
 # GUIツールを読み込む
